@@ -1,4 +1,4 @@
-# [Bài tập cá nhân phần ứng dụng Machine Learning]
+# [Bài tập cá nhân Stock Prediction]
 
 Thực hiện theo tutorial để làm quen với mô hình dự đoán và triển khai ứng dụng trên môi trường web.
 Cặp tiền dự đoán : **BTC-USD, ETH-USD, ADA-USD**
