@@ -25,4 +25,4 @@ Bước 3: Chạy dự án thông qua file **main.py** bằng câu lệnh **pyth
 
 ## Video demo dự án
 
-**[[BTCN phần ứng dụng Machine Learning] - Các công nghệ mới trong phát triển phần mềm - CQ2020/3](https://www.youtube.com/watch?v=MXnwVqV0ALQ)**
+**[[BTCN phần ứng dụng Machine Learning] - Các công nghệ mới trong phát triển phần mềm - CQ2020/3]([https://www.youtube.com/watch?v=MXnwVqV0ALQ](https://youtu.be/6WtxoS7_Iqc)**
